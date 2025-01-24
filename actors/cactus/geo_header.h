@@ -1,0 +1,10 @@
+extern const GeoLayout cactus_geo[];
+extern Lights1 cactus_Cactus_lights;
+extern u8 cactus_cactus_ci8[];
+extern u8 cactus_cactus_pal_rgba16[];
+extern Vtx cactus_000_displaylist_mesh_layer_4_vtx_0[4];
+extern Gfx cactus_000_displaylist_mesh_layer_4_tri_0[];
+extern Gfx mat_cactus_Cactus[];
+extern Gfx mat_revert_cactus_Cactus[];
+extern Gfx cactus_000_displaylist_mesh_layer_4[];
+extern Gfx cactus_material_revert_render_settings[];
